@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="985px" height="640px" font-size="14px">
+<style>
+@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%;}
+.key{fill:#ffa657;} .value{fill:#a5d6ff;} .cc{fill:#616e7f;} .text{fill:#c9d1d9;}
+text,tspan{white-space:pre;}
+</style>
+<rect width="985px" height="640px" fill="#161b22" rx="15"/>
+<text x="20" y="30" fill="#c9d1d9" font-size="14px">
+<tspan x="20" y="30.0"></tspan>
+<tspan x="20" y="50.0"></tspan>
+<tspan x="20" y="70.0">                  `   `    ````</tspan>
+<tspan x="20" y="90.0">             ~/_          `  `,~```</tspan>
+<tspan x="20" y="110.0">            _  ____|||___ggj||_`  `  `</tspan>
+<tspan x="20" y="130.0">           ` `]@@@@@@@@@@@@@@@@@@@gj_</tspan>
+<tspan x="20" y="150.0">            _@@@@@@@@@@@@@@@@@@@@@@@@_</tspan>
+<tspan x="20" y="170.0">            _%%@@@@@@@@@@@@@@@@@@@@@@C</tspan>
+<tspan x="20" y="190.0">            |%%%@@@@@@@@@@@@@@@@@@@@@%</tspan>
+<tspan x="20" y="210.0">            {%@M%CCCC%@@@@@%%CCCC*M@@@</tspan>
+<tspan x="20" y="230.0">           &#x27;J@#*`_` `   &lt;@@p``_*&gt;&lt;`#@@@C,</tspan>
+<tspan x="20" y="250.0">           *&lt;@m|_*&gt;&lt;@mC|*@@@@%#&lt;%%@@@@@*`</tspan>
+<tspan x="20" y="270.0">         ~C``@@@@@@@@@C|*@@@@@@@@@@@@%%&gt;</tspan>
+<tspan x="20" y="290.0">          @``%@@@@@@@@&gt;||@@@@@@@@@@@@C{|</tspan>
+<tspan x="20" y="310.0">          *, *%%@@@@@@*&lt;@@@@@@@@@@@@@**</tspan>
+<tspan x="20" y="330.0">              |@@@@@@&lt;  `*&gt;*%@@@@@@@@_</tspan>
+<tspan x="20" y="350.0">              &gt;@@@*_`*_&gt;|_||__``*@@@@`</tspan>
+<tspan x="20" y="370.0">              `||*`_p|m@@@@@@@@|_@@%*</tspan>
+<tspan x="20" y="390.0">             | ````%@@&lt;*|]C]@@@%`|*``</tspan>
+<tspan x="20" y="410.0">              &lt;*```_|&lt;&lt;_*m&lt;@@@&lt;~__```</tspan>
+<tspan x="20" y="430.0">             `@|``___`_*|%****~_`~]@`</tspan>
+<tspan x="20" y="450.0">      `  `__  *@@C_!* `!*_`*_` `j@@\ ``|` ``</tspan>
+<tspan x="20" y="470.0">` ```__```*__`  *%@%C_``````_|@@@@` _` |*``|_ `_</tspan>
+<tspan x="20" y="490.0">_```**`````_**~_  `*@@%&gt;&lt;||@@@@@*  _|` &lt;|_ *|_`*</tspan>
+<tspan x="20" y="510.0">**`_**```*****`**_` `*%W@@@@@%*   _|*` *|*``||_</tspan>
+<tspan x="20" y="530.0">*``_**``_******`**_**____``__`` `*&gt;**` *|*_ `|*`</tspan>
+<tspan x="20" y="550.0">_``**```********``***_````___``_*****` *|**` *|*</tspan>
+<tspan x="20" y="570.0">``_*_*``***____**_`****_***```_******` *&gt;**_``**</tspan>
+<tspan x="20" y="590.0">``*_**`_**__*_****``*****`` `****_***` *****_` *</tspan>
+<tspan x="20" y="610.0">`**_*_`***_*___***_ *****  `***___***` ***`___~_</tspan>
+</text>
+<text x="440" y="30" fill="#c9d1d9">
+<tspan x="440" y="30"><tspan class="text">marco@santos </tspan><tspan class="cc">—————————————————————————————————————————————————</tspan></tspan>
+<tspan x="440" y="50"><tspan class="key">OS</tspan><tspan class="cc">:</tspan><tspan class="dots"> ................................... </tspan><tspan class="value">Linux, AWS, Kubernetes</tspan></tspan>
+<tspan x="440" y="70"><tspan class="key">Uptime</tspan><tspan class="cc">:</tspan><tspan class="dots"> ............................. </tspan><tspan class="value">9 anos, 4 meses, 29 dias</tspan></tspan>
+<tspan x="440" y="90"><tspan class="key">Host</tspan><tspan class="cc">:</tspan><tspan class="dots"> ............................................... </tspan><tspan class="value">TruckPag</tspan></tspan>
+<tspan x="440" y="110"><tspan class="key">Kernel</tspan><tspan class="cc">:</tspan><tspan class="dots"> ............................. </tspan><tspan class="value">Arquiteto Cloud &amp; DevOps</tspan></tspan>
+<tspan x="440" y="130"><tspan class="key">IDE</tspan><tspan class="cc">:</tspan><tspan class="dots"> ........................................ </tspan><tspan class="value">VSCode, Terminal</tspan></tspan>
+<tspan x="440" y="170"><tspan class="key">Languages.Programming</tspan><tspan class="cc">:</tspan><tspan class="dots"> .............. </tspan><tspan class="value">Python, Java, Shell, SQL</tspan></tspan>
+<tspan x="440" y="190"><tspan class="key">Languages.IaC</tspan><tspan class="cc">:</tspan><tspan class="dots"> ............... </tspan><tspan class="value">Terraform, CloudFormation, YAML</tspan></tspan>
+<tspan x="440" y="210"><tspan class="key">Languages.Real</tspan><tspan class="cc">:</tspan><tspan class="dots"> .................................... </tspan><tspan class="value">Português</tspan></tspan>
+<tspan x="440" y="250"><tspan class="key">Cloud.Providers</tspan><tspan class="cc">:</tspan><tspan class="dots"> ............... </tspan><tspan class="value">AWS, Azure, OCI, Magalu Cloud</tspan></tspan>
+<tspan x="440" y="270"><tspan class="key">Cloud.Containers</tspan><tspan class="cc">:</tspan><tspan class="dots"> .............. </tspan><tspan class="value">Docker, EKS, ECS Fargate, OKE</tspan></tspan>
+<tspan x="440" y="290"><tspan class="key">Cloud.CI/CD</tspan><tspan class="cc">:</tspan><tspan class="dots"> ............... </tspan><tspan class="value">GitLab CI, GitHub Actions, Tekton</tspan></tspan>
+<tspan x="440" y="310"><tspan class="key">Cloud.Observability</tspan><tspan class="cc">:</tspan><tspan class="dots"> ................ </tspan><tspan class="value">Grafana, Prometheus, ELK</tspan></tspan>
+<tspan x="440" y="330"><tspan class="key">Cloud.Focus</tspan><tspan class="cc">:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">SRE, DevSecOps, FinOps, DR</tspan></tspan>
+<tspan x="440" y="370"><tspan class="text">Certifications </tspan><tspan class="cc">———————————————————————————————————————————————</tspan></tspan>
+<tspan x="440" y="390"><tspan class="key">AWS</tspan><tspan class="cc">:</tspan><tspan class="dots"> ............................... </tspan><tspan class="value">Certified AI Practitioner</tspan></tspan>
+<tspan x="440" y="410"><tspan class="key">HashiCorp</tspan><tspan class="cc">:</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">Terraform Associate (003)</tspan></tspan>
+<tspan x="440" y="430"><tspan class="key">Magalu Cloud</tspan><tspan class="cc">:</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">Certified Foundational</tspan></tspan>
+<tspan x="440" y="470"><tspan class="text">Contact </tspan><tspan class="cc">——————————————————————————————————————————————————————</tspan></tspan>
+<tspan x="440" y="490"><tspan class="key">LinkedIn</tspan><tspan class="cc">:</tspan><tspan class="dots"> ...................................... </tspan><tspan class="value">in/mgsantos89</tspan></tspan>
+<tspan x="440" y="510"><tspan class="key">Location</tspan><tspan class="cc">:</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">Florianópolis, SC · Remoto</tspan></tspan>
+<tspan x="440" y="550"><tspan class="text">GitHub Stats </tspan><tspan class="cc">—————————————————————————————————————————————————</tspan></tspan>
+<tspan x="440" y="570"><tspan class="key">Repos</tspan><tspan class="cc">:</tspan><tspan class="dots"> ..................... </tspan><tspan class="value">10</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan><tspan class="cc">:</tspan><tspan class="dots"> ................... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="440" y="590"><tspan class="key">Followers</tspan><tspan class="cc">:</tspan><tspan class="dots"> .................. </tspan><tspan class="value">1</tspan><tspan class="cc"> | </tspan><tspan class="key">Following</tspan><tspan class="cc">:</tspan><tspan class="dots"> ............... </tspan><tspan class="value">3</tspan></tspan>
+</text>
+</svg>
